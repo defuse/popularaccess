@@ -108,6 +108,12 @@ class URLParse
             "index.php" =>  array(
                 P_RDIR => "",
                 ),
+            "how-to-help" => array(
+                P_FILE => "how-to-help.php",
+                P_TITL => "Popular Access | How To Help",
+                P_METD => "How to Help",
+                P_METK => "popular science, writing, help",
+                ),
             "links" => array(
                 P_FILE => "links.php",
                 P_TITL => "Popular Access | Links",
