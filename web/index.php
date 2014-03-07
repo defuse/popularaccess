@@ -51,10 +51,5 @@ header('Content-Type: text/html; charset=utf-8');
         URLParse::IncludePageContents();
     ?>
 
-
-<div id="license">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0; vertical-align: bottom;" src="/images/cc-by-sa.png"/></a>
-</div>
-
 </body>
 </html>
